@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @freddie41
 - 👀  I’m interested in web development.
 - 🌱  I’m currently learning JavaScript, CSS and HTML.
-- 💞️  I’m looking to collaborate on new projects.
+- 🤝  I’m looking to collaborate on new projects.
 - 📫  Reach me @ fcl41@me.com
 
 <!---
